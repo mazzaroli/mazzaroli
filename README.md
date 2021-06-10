@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my personal growth.
-- 🌱 I’m currently learning Software Development and Soft Skills.
+- 🌱 I’m currently learning Software Development and Soft Skills at Platzi.
 - 👯 I’m looking to collaborate on IT enterprise.
 - 💬 Ask me about if you want to have a good talk.
 - 📫 How to reach me: carlitosmazaroli@gmail.com
