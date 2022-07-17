@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+> i really need to get better this section :p
+
 - 🔭 I’m currently working on my personal growth.
 - 🌱 I’m currently learning Data Science.
 - 👯 I’m looking to collaborate on IT enterprise.
